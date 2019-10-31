@@ -9,9 +9,11 @@ h1 {
   background-image: url("/scroll.png");
   background-repeat: no-repeat;
   background-position: center;
+  background-size: cover;
+  padding: 15px;
 }
 .story-text {
-  margin: 0 125px;
+  margin: 0 15%;
   padding: 25px 0;
 }
 
@@ -23,4 +25,5 @@ section {
   background-image: url("/scroll.png");
   background-repeat: no-repeat;
   background-position: center;
+  background-size: cover;
 }
