@@ -5,6 +5,10 @@ body {
 }
 h1 {
   text-align: center;
+
+  background-image: url("/scroll.png");
+  background-repeat: no-repeat;
+  background-position: center;
 }
 .story-text {
   margin: 0 125px;
